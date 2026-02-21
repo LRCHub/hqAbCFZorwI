@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Odd - Origin 【Official Music Video】",
+  "base_artist": "Odd",
+  "createdAt": "2026-02-21T05:27:26.388035Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Am The Odd One",
+      "artist": "Loney Dear",
+      "has_synced": false,
+      "path": "select/01_I_Am_The_Odd_One_Loney_Dear.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sleep (Odd Nosdam Remix)",
+      "artist": "The Notwist",
+      "has_synced": false,
+      "path": "select/02_Sleep_(Odd_Nosdam_Remix)_The_Notwist.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ODD FUTURE",
+      "artist": "BiS",
+      "has_synced": false,
+      "path": "select/03_ODD_FUTURE_BiS.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Windshield Smasher (Odd Nosdam Remix)",
+      "artist": "Black Moth Super Rainbow feat. Odd Nosdam",
+      "has_synced": false,
+      "path": "select/04_Windshield_Smasher_(Odd_Nosdam_Remix)_Black_Moth_Super_Rainbow_feat._Odd_Nosdam.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Windshield Smasher (Odd Nosdam Remix)",
+      "artist": "Black Moth Super Rainbow, Odd Nosdam",
+      "has_synced": false,
+      "path": "select/05_Windshield_Smasher_(Odd_Nosdam_Remix)_Black_Moth_Super_Rainbow,_Odd_Nosdam.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Safe Tomorrow - Odd Nosdam Remix",
+      "artist": "Lali Puna",
+      "has_synced": false,
+      "path": "select/06_Safe_Tomorrow_-_Odd_Nosdam_Remix_Lali_Puna.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "You're The One - Odd Future's The Internet ft. Mike G Remix",
+      "artist": "Charli XCX",
+      "has_synced": true,
+      "path": "select/07_You're_The_One_-_Odd_Future's_The_Internet_ft._Mike_G_Remix_Charli_XCX.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "You're The One (Odd Future's The Internet Remix) (feat. Mike G)",
+      "artist": "Charli XCX",
+      "has_synced": true,
+      "path": "select/08_You're_The_One_(Odd_Future's_The_Internet_Remix)_(feat._Mike_G)_Charli_XCX.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Odd Soul",
+      "artist": "MUTEMATH",
+      "has_synced": true,
+      "path": "select/09_Odd_Soul_MUTEMATH.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Odd Soul (Instrumental)",
+      "artist": "MUTEMATH",
+      "has_synced": true,
+      "path": "select/10_Odd_Soul_(Instrumental)_MUTEMATH.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Meaning of Love (Fairly Odd mix)",
+      "artist": "Depeche Mode",
+      "has_synced": true,
+      "path": "select/11_The_Meaning_of_Love_(Fairly_Odd_mix)_Depeche_Mode.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Odd Neighbourhood",
+      "artist": "Holygram",
+      "has_synced": false,
+      "path": "select/12_Odd_Neighbourhood_Holygram.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Odd Couple",
+      "artist": "Weezer",
+      "has_synced": true,
+      "path": "select/13_Odd_Couple_Weezer.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Call On Me (Odd Mob Remix)",
+      "artist": "Starley",
+      "has_synced": true,
+      "path": "select/14_Call_On_Me_(Odd_Mob_Remix)_Starley.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Odd Look",
+      "artist": "Kavinsky",
+      "has_synced": true,
+      "path": "select/15_Odd_Look_Kavinsky.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Origin",
+      "artist": "Odd",
+      "has_synced": false,
+      "path": "select/pl_01_Origin_Odd.txt"
+    }
+  ]
+}
